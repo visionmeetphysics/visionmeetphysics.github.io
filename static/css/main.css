@@ -120,6 +120,9 @@ body {
   .people-pic {
     max-width: 125px;
     max-height: 125px;
+    width: 125px;
+    height: 125px;
+    object-fit: contain;
   }
   
   .people-name {
